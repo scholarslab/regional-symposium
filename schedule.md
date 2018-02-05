@@ -4,40 +4,74 @@ title: Schedule
 permalink: "/schedule/"
 ---
 
-Friday				Alderman 421 unless otherwise noted
+# Schedule
+
+## Friday (open)
+
+All events in Alderman 421
 
 
-9:00 - 9:30			Coffee and welcome
+**9:00 - 9:30**
 
-9:30 - 10:45	Session 1 - 10-15 minute rapid introductions to the programs and what we’re doing. Likely Purdom, B, MB, and Lauren presenting
+Coffee and Welcome
 
-10:45 - 11:00			Break
+**9:30 - 10:45**
 
-11:00 - 12:15 			Session 2 - Social Justice
+Session 1 - Bird's Eye View of the Different Programs
 
-Presenter UVA -
-				Presenter U of R -
-				Presenter MITH -
-				Presenter W&amp;L - Arlette?
+* Presenter UVA - Brandon Waslh
+* Presenter U of R - Lauren Tilton
+* Presenter MITH - Purdom Lindblad
+* Presenter W&amp;L - Mackenzie Brooks
 
-12:15 - 1:15			Lunch
 
-1:15 - 1:30			Break
+**10:45 - 11:00**			
+Break
 
-1:30 - 2:45			Session 3 - Pedagogy / Student Projects
+**11:00 - 12:15** 			
 
-Presenter UVA - Praxis group
-				Presenter U of R -
-				Presenter MITH -
-				Presenter W&amp;L - Steve/Megan?
+Session 2 - Social Justice
 
-2:45 - 3:00			Break
+* Presenter UVA -
+* Presenter U of R -
+* Presenter MITH -
+* Presenter W&amp;L - Arlette Hernandez
 
-3:00 - 4:15			Birds of a Feather
+**12:15 - 1:15**
 
-Presenter UVA -
-				Presenter U of R -
-				Presenter MITH -
-				Presenter W&amp;L -
+Lunch provided
 
-4:30 - 5:30			Reception in Scholars' Lab public space
+**1:15 - 1:30**			
+
+Break
+
+**1:30 - 2:45**			
+
+Session 3 - Pedagogy / Student Projects
+
+* Presenter UVA - Praxis group
+* Presenter U of R -
+* Presenter MITH -
+* Presenter W&amp;L - Steve/Megan?
+
+**2:45 - 3:00**
+
+Break
+
+**3:00 - 4:15**		
+
+Birds of a Feather Discussion of Ways our Universities Could Collaborate
+
+**4:30 - 5:30**			
+
+Reception in Scholars' Lab public space
+
+## Saturday (closed, smaller group of administrators)
+
+**11:30**
+
+Lunch at Michael's Bistro on the Corner
+
+**1:00 - 4:00**
+
+Followup on Friday's events
