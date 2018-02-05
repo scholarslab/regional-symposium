@@ -19,7 +19,7 @@ Coffee and Welcome
 
 Session 1 - Bird's Eye View of the Different Programs
 
-* Presenter UVA - Brandon Waslh
+* Presenter UVA - Brandon Walsh
 * Presenter U of R - Lauren Tilton
 * Presenter MITH - Purdom Lindblad
 * Presenter W&amp;L - Mackenzie Brooks
