@@ -48,31 +48,6 @@ Use a terminal to do the following commands
 
     `$ bower install`
 
-# Add a New Post
-
-There's a tool to help generating what you need for new posts:
-
-```shell
-$ rake new_post[post-type,"Title of your post"]
-Creating new post file _posts/post-type/2015-09-24-title-of--your-post.md
-```
-
-This will create a new post file in the correct location with the needed
-header information.
-
-Examples:
-```shell
-$ rake new_post[blog,"My Blog Post"]
-$ rake new_post[memo,"My Memo"]
-$ rake new_post[meeting-note,"My Meeting Note"]
-```
-
-You can check on what was generated with:
-
-```
-$ git status
-```
-
 # Run locally
 
 ## New Way
