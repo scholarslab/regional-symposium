@@ -1,6 +1,4 @@
 name: 2018 Regional DH Symposium
-#baseurl: /praxis
-# markdown: redcarpet
 highlighter: rouge
 exclude: ['_sass', 'bower_components', 'node_modules', 'Rakefile', 'README.md', 'config.rb', '_config.yml', 'Gemfile', 'Gemfile.lock', '_settings.yml', 'plugins']
 

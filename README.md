@@ -13,14 +13,14 @@ Use a terminal to do the following commands
 
 1. Clone the repo
 
-    `$ git clone https://github.com/scholarslab/praxis `
+    `$ git clone https://github.com/scholarslab/regional-symposium.git `
 
 2. Install gems and other software (OS X only; **Windows users find
    us**)
 
-  - Go into the praxis directory
+  - Go into the regional-symposium directory
 
-    `$ cd praxis`
+    `$ cd regional-symposium`
 
   - And run bundle. This will install the Ruby gems needed, including Jekyll.
 
