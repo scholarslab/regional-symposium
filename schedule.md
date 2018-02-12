@@ -35,7 +35,7 @@ Session 2 - Social Justice
 * Presenter UVA -
 * Presenter U of R -
 * Presenter MITH -
-* Presenter W&amp;L - Arlette Hernandez
+* Presenter W&amp;L - Arlette Hernandez '18
 
 **12:15 - 1:15**
 
@@ -52,7 +52,7 @@ Session 3 - Pedagogy / Student Projects
 * Presenter UVA - Praxis group
 * Presenter U of R -
 * Presenter MITH -
-* Presenter W&amp;L - Steve/Megan?
+* Presenter W&amp;L - Stephen P. McCormick and Megan Doherty '18 on collaboration and the *Huon d'Auvergne* digital edition project.
 
 **2:45 - 3:00**
 
