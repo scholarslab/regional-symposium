@@ -19,8 +19,10 @@ Coffee and Welcome
 
 Session 1 - Bird's Eye View of the Different Programs
 
+Moderator - Amanda Visconti
+
 * Presenter UVA - Brandon Walsh
-* Presenter U of R - Lauren Tilton
+* Presenter U of R - Ed Ayers and Lauren Tilton
 * Presenter MITH - Purdom Lindblad
 * Presenter W&amp;L - Mackenzie Brooks
 
@@ -32,9 +34,11 @@ Break
 
 Session 2 - Social Justice
 
-* Presenter UVA -
-* Presenter U of R -
-* Presenter MITH -
+Moderator - Purdom Lindblad
+
+* Presenter UVA - Katherine Donnally
+* Presenter U of R - Rob Nelson and Nicole Maurantonio
+* Presenter MITH - Ed Summers and Joseph Koivisto
 * Presenter W&amp;L - Arlette Hernandez
 
 **12:15 - 1:15**
@@ -49,9 +53,11 @@ Break
 
 Session 3 - Pedagogy / Student Projects
 
-* Presenter UVA - Praxis group
-* Presenter U of R -
-* Presenter MITH -
+Moderator -  Mackenzie Brooks
+
+* Presenter UVA - Praxis group: Christian Howard
+* Presenter U of R - Madeleine Jordan-Lord, Elizabeth Mejia-Ricart, Taylor Arnold
+* Presenter MITH - Raffaele Viglianti and Caitlin Christian-Lamb
 * Presenter W&amp;L - Steve/Megan?
 
 **2:45 - 3:00**
@@ -61,6 +67,8 @@ Break
 **3:00 - 4:15**		
 
 Birds of a Feather Discussion of Ways our Universities Could Collaborate
+
+Moderators  - Mackenzie Brooks and Lauren Tilton
 
 **4:30 - 5:30**			
 
