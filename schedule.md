@@ -39,7 +39,7 @@ Moderator - Purdom Lindblad
 * Presenter UVA - Katherine Donnally
 * Presenter U of R - Rob Nelson and Nicole Maurantonio
 * Presenter MITH - Ed Summers and Joseph Koivisto
-* Presenter W&amp;L - Arlette Hernandez
+* Presenter W&amp;L - Arlette Hernandez '18
 
 **12:15 - 1:15**
 
@@ -58,7 +58,7 @@ Moderator -  Mackenzie Brooks
 * Presenter UVA - Praxis group: Christian Howard
 * Presenter U of R - Madeleine Jordan-Lord, Elizabeth Mejia-Ricart, Taylor Arnold
 * Presenter MITH - Raffaele Viglianti and Caitlin Christian-Lamb
-* Presenter W&amp;L - Steve/Megan?
+* Presenter W&amp;L - Stephen P. McCormick and Megan Doherty '18 on collaboration and the *Huon d'Auvergne* digital edition project.
 
 **2:45 - 3:00**
 
