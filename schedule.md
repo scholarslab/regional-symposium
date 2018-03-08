@@ -37,9 +37,9 @@ Session 2 - Social Justice
 Moderator - Purdom Lindblad
 
 * Presenter UVA - Katherine Donnally
+* Presenter W&amp;L - Arlette Hernandez '18
 * Presenter U of R - Rob Nelson and Nicole Maurantonio
 * Presenter MITH - Ed Summers and Joseph Koivisto
-* Presenter W&amp;L - Arlette Hernandez '18
 
 **12:15 - 1:15**
 
