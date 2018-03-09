@@ -70,6 +70,12 @@ Birds of a Feather Discussion of Ways our Universities Could Collaborate
 
 Moderators  - Mackenzie Brooks and Lauren Tilton
 
+* [Undergrads + Grads](https://docs.google.com/document/d/1YNzAxuHpThclvC-a3OouVe4TjX55d17GdEJvZo0sVYA/edit?usp=sharing)
+* [Faculty](https://docs.google.com/document/d/1mnBbICAXkuCS3scyaIC0xqvrkgGpL3UFrPMbIZHHizg/edit?usp=sharing)
+* [Technologists/Designers](https://docs.google.com/document/d/1DlzldS29NkBu5iyf93WUIIpx5CwgjjMEuje77K7ViE0/edit?usp=sharing)
+* [Administrators](https://docs.google.com/document/d/18P59LFdM_a6QSCa5b9Jwn1-LS4gP_MUve7mAG7WY6EA/edit?usp=sharing)
+* [Librarians](https://docs.google.com/document/d/1S8kajmwwcvDG4xv51xd0b08t8Npqr1EHLonE-lo7vcY/edit?usp=sharing)
+
 **4:30 - 5:30**			
 
 Reception in Scholars' Lab public space
