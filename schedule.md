@@ -89,3 +89,4 @@ Lunch at Michael's Bistro on the Corner
 **1:00 - 4:00**
 
 Followup on Friday's events
+[Google doc](https://docs.google.com/document/d/10Mlf-QKpnARH70SrFThVpIQi7_-HjQuI8d3s_Zlqrvo/edit?usp=sharing)
